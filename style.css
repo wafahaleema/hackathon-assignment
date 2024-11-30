@@ -1,0 +1,34 @@
+.container{
+    height:100vh;
+    width: 196vh;
+    /* background-color: bisque; */
+    background-image: url(https://e0.pxfuel.com/wallpapers/913/844/desktop-wallpaper-doctor-medicine-nurse-for-section-for-your-mobile-tablet-explore-doctors-all-12-doctors-doctor-who-all-doctors-doctor-aesthetic.jpg);
+    background-size: cover;
+    text-align: center;
+   
+}
+.text{
+    position: absolute;
+    bottom: 50%;
+    color: white;
+}
+.para{
+    color: rgb(250, 251, 252);
+    font-size: large;
+    position: absolute;
+    bottom: 43%;
+}
+.inner{
+    background-color: black;
+    opacity: 0.8;
+}
+
+#circle{
+    background-color: blueviolet;
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
